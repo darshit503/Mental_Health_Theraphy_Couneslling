@@ -1,0 +1,7 @@
+streamlit
+requests
+
+
+## Dependencies for Notebook to run 
+#torch
+#
