@@ -26,6 +26,8 @@ C:\Users\Darshit>ollama
 8. Edit the Model File.txt file and change the first line of the Model by the Model 
 For Example
 ![Alt text](Example.png?raw=true "Screenshot of the ModelFile.txt")
+
+
 9. In the aboave File change the name of the ModelFile in the starting with the downloaded Model File from HuggingFace from your Repo
 10. Go to cmd again and run the following Ollama command to add the Model to Ollama
 '''
