@@ -1,6 +1,7 @@
 # Mental Health Text Generation
 
-![Project Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F19045383-focus-icon-target-icon&psig=AOvVaw3d2eEkuKY1Hrr31f-tIUJ3&ust=1713548968352000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLi7_b2pzIUDFQAAAAAdAAAAABAE)
+![Project Logo](![image](https://github.com/darshit503/Mental_Health_Theraphy_Couneslling/assets/91828073/97ef94ef-f943-41d5-bbeb-37f91df0d171)
+)
 
 ## Description
 This project is a Streamlit app that generates text based on mental health topics. It utilizes a language model to generate coherent and relevant text related to mental health. The Model used here is a Fine-Tuned Quantized model with 4 Bits of Precision. The Base  model is Open-Orca Mistral Model which is used for Text Generation and other tasks. This Fine Tuning and Quantization is done using Google Colab Notebook and further pushed to Hugging Face Repositories. This Project requires Ollama Software to run the Model and a good Computation Power GPU (RTX 30xx, RTX40xx, GTX 16xx, GTX 17xx) which helps in running the File and Project Smoothly. 
