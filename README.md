@@ -1,7 +1,7 @@
 # Mental Health Text Generation
 
-![Project Logo](![image](https://github.com/darshit503/Mental_Health_Theraphy_Couneslling/assets/91828073/97ef94ef-f943-41d5-bbeb-37f91df0d171)
-)
+![image](https://github.com/darshit503/Mental_Health_Theraphy_Couneslling/assets/91828073/97ef94ef-f943-41d5-bbeb-37f91df0d171)
+
 
 ## Description
 This project is a Streamlit app that generates text based on mental health topics. It utilizes a language model to generate coherent and relevant text related to mental health. The Model used here is a Fine-Tuned Quantized model with 4 Bits of Precision. The Base  model is Open-Orca Mistral Model which is used for Text Generation and other tasks. This Fine Tuning and Quantization is done using Google Colab Notebook and further pushed to Hugging Face Repositories. This Project requires Ollama Software to run the Model and a good Computation Power GPU (RTX 30xx, RTX40xx, GTX 16xx, GTX 17xx) which helps in running the File and Project Smoothly. 
@@ -31,13 +31,13 @@ For Example
 
 9. In the aboave File change the name of the ModelFile in the starting with the downloaded Model File from HuggingFace from your Repo
 10. Go to cmd again and run the following Ollama command to add the Model to Ollama
-'''
+'
 C:\Users\Darshit>ollama create <name of new_model> -f ModelFile.txt
-'''
+'
 11. Check whether the Model has added or not to the Ollama by running the following command
-'''
+'
 C:\Users\Darshit>ollama list
-'''
+'
 12. Run the Model and Minimize the Screen
 13. Activate the Environment "Therapy" in the Command line by adding the command - "\Therapy\Scripts\activate"
 14. Install the required dependencies in Visual Studio Code : `pip install -r requirements.txt`
